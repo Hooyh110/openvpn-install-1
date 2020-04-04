@@ -1224,7 +1224,7 @@ function removeOpenVPN () {
 function manageMenu () {
 	clear
 	echo "Welcome to OpenVPN-install!"
-	echo "The git repository is available at: https://github.com/angristan/openvpn-install"
+	echo "The git repository is available at: https://github.com/Hooyh110/openvpn-install"
 	echo ""
 	echo "It looks like OpenVPN is already installed."
 	echo ""
